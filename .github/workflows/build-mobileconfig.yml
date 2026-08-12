@@ -58,7 +58,7 @@ jobs:
 
       - name: Commit generated profile
         run: |
-          if git diff --quiet -- reddit-nsfw-blocklist.mobileconfig; then
+          if [ -z "$(git status --porcelain -- reddit-nsfw-blocklist.mobileconfig)" ]; then
             echo "Profile is already up to date."
             exit 0
           fi
