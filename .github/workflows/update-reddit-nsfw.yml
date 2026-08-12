@@ -1,0 +1,50 @@
+name: Update Reddit NSFW blocklist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * 1'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-reddit-nsfw.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Safari content blocker rules
+        run: |
+          python3 - <<'PY'
+          import json, re, urllib.request
+
+          source = 'https://raw.githubusercontent.com/dlln147/RandomNSFW/refs/heads/main/RandomNSFW'
+          text = urllib.request.urlopen(source, timeout=30).read().decode('utf-8')
+          names = sorted({x.strip() for x in text.splitlines() if re.fullmatch(r'[A-Za-z0-9_]+', x.strip())}, key=str.lower)
+
+          rules = []
+          for name in names:
+              escaped = re.escape(name)
+              rules.append({
+                  'trigger': {
+                      'url-filter': rf'^https?://([a-z0-9-]+\\.)?reddit\\.com/r/{escaped}(/|$|\\?|#)',
+                      'url-filter-is-case-sensitive': False
+                  },
+                  'action': {'type': 'block'}
+              })
+
+          with open('reddit-nsfw-blocklist.json', 'w', encoding='utf-8') as f:
+              json.dump(rules, f, separators=(',', ':'))
+          print(f'Generated {len(rules)} rules')
+          PY
+      - name: Commit updated list
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add reddit-nsfw-blocklist.json
+          git diff --cached --quiet || git commit -m 'Update Reddit NSFW blocklist'
+          git push
