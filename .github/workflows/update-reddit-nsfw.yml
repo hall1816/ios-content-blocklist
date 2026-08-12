@@ -31,7 +31,7 @@ jobs:
               escaped = re.escape(name)
               rules.append({
                   'trigger': {
-                      'url-filter': rf'^https?://([a-z0-9-]+\\.)?reddit\\.com/r/{escaped}(/|$|\\?|#)',
+                      'url-filter': rf'^https?://([a-z0-9-]+\.)?reddit\.com/r/{escaped}(/|$|\?|#)',
                       'url-filter-is-case-sensitive': False
                   },
                   'action': {'type': 'block'}
