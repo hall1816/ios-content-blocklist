@@ -17,34 +17,41 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Generate Safari content blocker rules
+      - name: Generate EasyList rules for AdBlock iOS
         run: |
           python3 - <<'PY'
-          import json, re, urllib.request
+          import re, urllib.request
 
           source = 'https://raw.githubusercontent.com/dlln147/RandomNSFW/refs/heads/main/RandomNSFW'
           text = urllib.request.urlopen(source, timeout=30).read().decode('utf-8')
-          names = sorted({x.strip() for x in text.splitlines() if re.fullmatch(r'[A-Za-z0-9_]+', x.strip())}, key=str.lower)
+          names = sorted(
+              {x.strip() for x in text.splitlines() if re.fullmatch(r'[A-Za-z0-9_]+', x.strip())},
+              key=str.lower,
+          )
 
-          rules = []
-          for name in names:
-              escaped = re.escape(name)
-              rules.append({
-                  'trigger': {
-                      'url-filter': rf'^https?://([a-z0-9-]+\.)?reddit\.com/r/{escaped}(/|$|\?|#)',
-                      'url-filter-is-case-sensitive': False
-                  },
-                  'action': {'type': 'block'}
-              })
+          lines = [
+              '[Adblock Plus 2.0]',
+              '! Title: Reddit NSFW Subreddit Blocklist',
+              '! Description: Blocks subreddit URL paths listed by dlln147/RandomNSFW',
+              f'! Source: {source}',
+              f'! Rules: {len(names)}',
+              '',
+          ]
 
-          with open('reddit-nsfw-blocklist.json', 'w', encoding='utf-8') as f:
-              json.dump(rules, f, separators=(',', ':'))
-          print(f'Generated {len(rules)} rules')
+          # EasyList/Adblock Plus syntax. The ^ separator prevents a name such as
+          # /r/example from also matching /r/example2. Matching is case-insensitive
+          # by default, which is desirable for Reddit subreddit URLs.
+          lines.extend(f'||reddit.com/r/{name}^' for name in names)
+
+          with open('reddit-nsfw-easylist.txt', 'w', encoding='utf-8', newline='\n') as f:
+              f.write('\n'.join(lines) + '\n')
+
+          print(f'Generated {len(names)} EasyList rules')
           PY
       - name: Commit updated list
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add reddit-nsfw-blocklist.json
-          git diff --cached --quiet || git commit -m 'Update Reddit NSFW blocklist'
+          git add reddit-nsfw-easylist.txt
+          git diff --cached --quiet || git commit -m 'Update Reddit NSFW EasyList blocklist'
           git push
