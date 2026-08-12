@@ -40,6 +40,7 @@ def make_payload(urls: list[str], index: int) -> dict:
         "PayloadIdentifier": f"com.hall1816.reddit-nsfw-blocklist.filter.{index}",
         "PayloadUUID": str(uuid.uuid4()).upper(),
         "PayloadDisplayName": f"Reddit NSFW Blocklist {index}",
+        "ContentFilterUUID": str(uuid.uuid4()).upper(),
         "FilterType": "BuiltIn",
         "AutoFilterEnabled": False,
         "DenyListURLs": urls,
