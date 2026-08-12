@@ -9,7 +9,7 @@
 	<key>PayloadIdentifier</key>
 	<string>com.hall1816.reddit-nsfw-blocklist</string>
 	<key>PayloadUUID</key>
-	<string>9D00C45D-BF72-4E20-8253-E3F18416ECEC</string>
+	<string>957BF15E-E819-4E51-89D0-9A764D2D58BB</string>
 	<key>PayloadDisplayName</key>
 	<string>Reddit NSFW Blocklist</string>
 	<key>PayloadDescription</key>
@@ -28,9 +28,11 @@
 			<key>PayloadIdentifier</key>
 			<string>com.hall1816.reddit-nsfw-blocklist.filter.1</string>
 			<key>PayloadUUID</key>
-			<string>742E730B-2D3B-493A-9031-B71988B90C0C</string>
+			<string>E31351E6-A4FE-45AA-961C-8CF91BF38632</string>
 			<key>PayloadDisplayName</key>
 			<string>Reddit NSFW Blocklist 1</string>
+			<key>ContentFilterUUID</key>
+			<string>020A96D4-CB89-47CA-A4B1-4EF315E36987</string>
 			<key>FilterType</key>
 			<string>BuiltIn</string>
 			<key>AutoFilterEnabled</key>
@@ -547,9 +549,11 @@
 			<key>PayloadIdentifier</key>
 			<string>com.hall1816.reddit-nsfw-blocklist.filter.2</string>
 			<key>PayloadUUID</key>
-			<string>D92BAA2C-FD19-4AA7-8DEC-B768571F155B</string>
+			<string>368CBFE6-0CC3-449E-AE9E-19F95D9BE75B</string>
 			<key>PayloadDisplayName</key>
 			<string>Reddit NSFW Blocklist 2</string>
+			<key>ContentFilterUUID</key>
+			<string>C26EA094-C133-43E7-88FA-664D1A82BFF9</string>
 			<key>FilterType</key>
 			<string>BuiltIn</string>
 			<key>AutoFilterEnabled</key>
@@ -1066,9 +1070,11 @@
 			<key>PayloadIdentifier</key>
 			<string>com.hall1816.reddit-nsfw-blocklist.filter.3</string>
 			<key>PayloadUUID</key>
-			<string>D31F0C7F-0C2F-40B4-BC7F-371D27BFD9F3</string>
+			<string>6EA7051B-6DE8-413A-B36A-8E176D67A379</string>
 			<key>PayloadDisplayName</key>
 			<string>Reddit NSFW Blocklist 3</string>
+			<key>ContentFilterUUID</key>
+			<string>B1D347F4-2C5D-440C-B3DB-ED70C54BC6F8</string>
 			<key>FilterType</key>
 			<string>BuiltIn</string>
 			<key>AutoFilterEnabled</key>
@@ -1585,9 +1591,11 @@
 			<key>PayloadIdentifier</key>
 			<string>com.hall1816.reddit-nsfw-blocklist.filter.4</string>
 			<key>PayloadUUID</key>
-			<string>012F0E0E-9789-439E-8F60-F0F9DAA12866</string>
+			<string>501FA465-3230-4949-BC30-2EE357C86631</string>
 			<key>PayloadDisplayName</key>
 			<string>Reddit NSFW Blocklist 4</string>
+			<key>ContentFilterUUID</key>
+			<string>A5A5AB52-14F0-4AE8-83CD-D2CF87F5FDB6</string>
 			<key>FilterType</key>
 			<string>BuiltIn</string>
 			<key>AutoFilterEnabled</key>
@@ -2104,9 +2112,11 @@
 			<key>PayloadIdentifier</key>
 			<string>com.hall1816.reddit-nsfw-blocklist.filter.5</string>
 			<key>PayloadUUID</key>
-			<string>558F7949-D623-4ADC-BD76-66044E0DCB0B</string>
+			<string>04701885-DB7D-4CC0-B775-E862FF81AB61</string>
 			<key>PayloadDisplayName</key>
 			<string>Reddit NSFW Blocklist 5</string>
+			<key>ContentFilterUUID</key>
+			<string>A5F0AA93-1677-4B9D-A9D1-F403722EF423</string>
 			<key>FilterType</key>
 			<string>BuiltIn</string>
 			<key>AutoFilterEnabled</key>
@@ -2623,9 +2633,11 @@
 			<key>PayloadIdentifier</key>
 			<string>com.hall1816.reddit-nsfw-blocklist.filter.6</string>
 			<key>PayloadUUID</key>
-			<string>598D11A2-9943-49B0-9A77-7F5C0E9207EF</string>
+			<string>412EDC29-3CE6-407C-A787-95A65D8939AC</string>
 			<key>PayloadDisplayName</key>
 			<string>Reddit NSFW Blocklist 6</string>
+			<key>ContentFilterUUID</key>
+			<string>CD3A28AA-034B-4905-BF18-EBEF868EA5B6</string>
 			<key>FilterType</key>
 			<string>BuiltIn</string>
 			<key>AutoFilterEnabled</key>
