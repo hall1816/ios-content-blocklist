@@ -1,4 +1,4 @@
-name: Build iOS blocklist profile
+name: Validate AdBlock EasyList source
 
 on:
   push:
@@ -6,12 +6,12 @@ on:
       - main
     paths:
       - "reddit-nsfw-easylist.txt"
-      - "scripts/build_mobileconfig.py"
+      - "scripts/build_easylist.py"
       - ".github/workflows/build-mobileconfig.yml"
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   build:
@@ -20,51 +20,21 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
-
-      - name: Build configuration profile
-        run: python scripts/build_mobileconfig.py
-
-      - name: Validate generated profile
+      - name: Validate EasyList structure
         run: |
           python - <<'PY'
-          import plistlib
           import re
           from pathlib import Path
 
           source = Path("reddit-nsfw-easylist.txt").read_text(encoding="utf-8")
-          expected = len({
+          rules = {
               m.group(1).lower()
               for m in re.finditer(
                   r"^\|\|reddit\.com/r/([A-Za-z0-9_]+)\^\s*$",
                   source,
                   re.MULTILINE,
               )
-          })
-
-          with Path("reddit-nsfw-blocklist.mobileconfig").open("rb") as f:
-              profile = plistlib.load(f)
-
-          payloads = profile["PayloadContent"]
-          counts = [len(x["DenyListURLs"]) for x in payloads]
-
-          assert all(c <= 500 for c in counts), counts
-          assert sum(counts) == expected, (sum(counts), expected)
-          print(f"Validated {sum(counts)} rules across {len(payloads)} payloads")
+          }
+          assert len(rules) > 500, len(rules)
+          print(f"Validated {len(rules)} EasyList rules")
           PY
-
-      - name: Commit generated profile
-        run: |
-          if [ -z "$(git status --porcelain -- reddit-nsfw-blocklist.mobileconfig)" ]; then
-            echo "Profile is already up to date."
-            exit 0
-          fi
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reddit-nsfw-blocklist.mobileconfig
-          git commit -m "Build iOS blocklist profile"
-          git push
