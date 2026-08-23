@@ -6,7 +6,7 @@
 ! URL: https://raw.githubusercontent.com/dlln147/RandomNSFW/refs/heads/main/RandomNSFW
 ! Source: Postpone top 5,000; accepted: 5000; rejected: 0; SHA-256: 3ea9bd011ac7b46255b8060bea05c85b4b6d8fa550467930f7603f8979a669f0
 ! URL: https://api.postpone.app/api/reddit/nsfw-subreddits/?limit=5000
-! Source: Kinky Tourist 26-part list; accepted: 12995; rejected: 0; SHA-256: e12f398b3de491c717929351a4cd4aea98e7c1d7ced20f731870ee6f4fc1aedf
+! Source: Kinky Tourist 26-part list; accepted: 12995; rejected: 0; SHA-256: 172c447d1e93ea3ed633a0c0c389ccd52f3806bbe8c35102fbbd2eba93b66a18
 ! URL: https://thekinkytourist.com/subreddits/
 
 ||reddit.com/r/07nsfw^
