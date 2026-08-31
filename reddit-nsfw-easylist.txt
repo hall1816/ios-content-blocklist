@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: Reddit NSFW Subreddit Blocklist
 ! Description: Blocks reviewed Reddit community URL paths from three public source lists.
-! Rules: 14159
+! Rules: 14157
 ! Source: RandomNSFW; accepted: 2914; rejected: 1; SHA-256: 9fb058561e73825a33507c76302ab25d5b9bf7d2a2316089b51a032b57b4ddde
 ! URL: https://raw.githubusercontent.com/dlln147/RandomNSFW/refs/heads/main/RandomNSFW
-! Source: Postpone top 5,000; accepted: 5000; rejected: 0; SHA-256: 3ea9bd011ac7b46255b8060bea05c85b4b6d8fa550467930f7603f8979a669f0
+! Source: Postpone top 5,000; accepted: 5000; rejected: 0; SHA-256: 88513de717367d3739f5f4c74a80b9dbf2d2ab4b3cd1818233d6cb6c9e661e03
 ! URL: https://api.postpone.app/api/reddit/nsfw-subreddits/?limit=5000
-! Source: Kinky Tourist 26-part list; accepted: 12995; rejected: 0; SHA-256: 172c447d1e93ea3ed633a0c0c389ccd52f3806bbe8c35102fbbd2eba93b66a18
+! Source: Kinky Tourist 26-part list; accepted: 12995; rejected: 0; SHA-256: 0a3b8ec951ad4b5fe0e119650a861afe8c31f1bf2b6674ca42c6f614f663d4e9
 ! URL: https://thekinkytourist.com/subreddits/
 
 ||reddit.com/r/07nsfw^
@@ -273,7 +273,7 @@
 ||reddit.com/r/AirplaneNudes^
 ||reddit.com/r/AirplaneSlidePorn^
 ||reddit.com/r/AirTight^
-||reddit.com/r/airtight_skiing^
+||reddit.com/r/Airtight_Skiing^
 ||reddit.com/r/AiSayama^
 ||reddit.com/r/AISissyHardcore^
 ||reddit.com/r/AISissyHentai^
@@ -550,7 +550,7 @@
 ||reddit.com/r/AnalSizeQueen^
 ||reddit.com/r/analsquirt^
 ||reddit.com/r/analstretching^
-||reddit.com/r/AnalToysOnly^
+||reddit.com/r/analtoysonly^
 ||reddit.com/r/AnalTutorial^
 ||reddit.com/r/AnalVidz^
 ||reddit.com/r/AnalWreckAI^
@@ -828,7 +828,7 @@
 ||reddit.com/r/asianmadness^
 ||reddit.com/r/asianmassageporn^
 ||reddit.com/r/AsianMenandWhiteBoys^
-||reddit.com/r/asianmilf_gonewild^
+||reddit.com/r/AsianMILF_GoneWild^
 ||reddit.com/r/AsianMombod^
 ||reddit.com/r/AsianMomsNude^
 ||reddit.com/r/AsianNSFW^
@@ -1294,7 +1294,6 @@
 ||reddit.com/r/bbwbible^
 ||reddit.com/r/bbwbigasses^
 ||reddit.com/r/bbwbikinis^
-||reddit.com/r/bbwbisexual^
 ||reddit.com/r/BBWBLACKED2^
 ||reddit.com/r/bbwboobsandbellies^
 ||reddit.com/r/bbwbutthole^
@@ -1398,7 +1397,7 @@
 ||reddit.com/r/beautifulandnaked^
 ||reddit.com/r/Beautifulbaldpussy^
 ||reddit.com/r/beautifulbutt^
-||reddit.com/r/beautifulchastity^
+||reddit.com/r/BeautifulChastity^
 ||reddit.com/r/BeautifulCutePornstar^
 ||reddit.com/r/BeautifulFemales^
 ||reddit.com/r/beautifulfucking^
@@ -1776,7 +1775,7 @@
 ||reddit.com/r/blackboobs^
 ||reddit.com/r/blackbootyshaking^
 ||reddit.com/r/blackbottoms4whitetop^
-||reddit.com/r/blackbrownfeet^
+||reddit.com/r/BlackBrownFEET^
 ||reddit.com/r/BlackCatNSFWr34^
 ||reddit.com/r/blackcelebrity^
 ||reddit.com/r/blackchicksblackdicks^
@@ -2151,7 +2150,7 @@
 ||reddit.com/r/BreedingExperience^
 ||reddit.com/r/breedingfamilys^
 ||reddit.com/r/BreedingGoneWild^
-||reddit.com/r/Breedinghotwives^
+||reddit.com/r/breedinghotwives^
 ||reddit.com/r/breedinglab^
 ||reddit.com/r/BreedingMaterial^
 ||reddit.com/r/BreedingOntario^
@@ -3943,6 +3942,7 @@
 ||reddit.com/r/DownblouseGirls^
 ||reddit.com/r/downblouseindia^
 ||reddit.com/r/doyourlines^
+||reddit.com/r/dp_doublepenetration^
 ||reddit.com/r/DPDP^
 ||reddit.com/r/dpforher^
 ||reddit.com/r/dph^
@@ -4927,7 +4927,7 @@
 ||reddit.com/r/frenchdick^
 ||reddit.com/r/FrenchGoneWild^
 ||reddit.com/r/frenchinstahotgirls^
-||reddit.com/r/frenchkissing^
+||reddit.com/r/FrenchKissing^
 ||reddit.com/r/frenchmaid^
 ||reddit.com/r/frenchnsfwgirls^
 ||reddit.com/r/FrenchPAWG^
@@ -5105,7 +5105,7 @@
 ||reddit.com/r/FuzzyFemVibe^
 ||reddit.com/r/FuzzyPeeks^
 ||reddit.com/r/fwatchingmm^
-||reddit.com/r/fwb_losangeles^
+||reddit.com/r/FWB_LosAngeles^
 ||reddit.com/r/FwbmeetupIndiana^
 ||reddit.com/r/FWBNorthCarolina^
 ||reddit.com/r/FwbWI^
@@ -5566,7 +5566,7 @@
 ||reddit.com/r/GlamourModel^
 ||reddit.com/r/GlansectomyDIY^
 ||reddit.com/r/Glanstexture^
-||reddit.com/r/glasgowslutsGW^
+||reddit.com/r/glasgowslutsgw^
 ||reddit.com/r/glassdildo^
 ||reddit.com/r/Glasses_gone_wild^
 ||reddit.com/r/glassesandhotasses^
@@ -5703,7 +5703,7 @@
 ||reddit.com/r/goonforass^
 ||reddit.com/r/goonforboobs^
 ||reddit.com/r/goonhead^
-||reddit.com/r/GoonHub4U^
+||reddit.com/r/goonhub4u^
 ||reddit.com/r/gooniesyd^
 ||reddit.com/r/gooningasians^
 ||reddit.com/r/GooningGalore^
@@ -7570,7 +7570,7 @@
 ||reddit.com/r/LesbianRapeHentaiNSFW^
 ||reddit.com/r/LesbianRim^
 ||reddit.com/r/lesbians^
-||reddit.com/r/lesbiansexporn^
+||reddit.com/r/LesbianSexPorn^
 ||reddit.com/r/LesbianSextingHeaven^
 ||reddit.com/r/lesbiansloppykisses^
 ||reddit.com/r/LesbiansMate^
@@ -7583,7 +7583,7 @@
 ||reddit.com/r/letsnotmeet^
 ||reddit.com/r/letsseethemboobs^
 ||reddit.com/r/letsseeyourboobsinbra^
-||reddit.com/r/letsverify^
+||reddit.com/r/LetsVerify^
 ||reddit.com/r/lewd^
 ||reddit.com/r/lewd_not_hentai^
 ||reddit.com/r/LewdAnimeFigures^
@@ -7820,7 +7820,7 @@
 ||reddit.com/r/MacroFetish^
 ||reddit.com/r/macromastiacam^
 ||reddit.com/r/macromastiairl^
-||reddit.com/r/MacromastiaQueens^
+||reddit.com/r/macromastiaqueens^
 ||reddit.com/r/Macrophilia^
 ||reddit.com/r/MacroRP2^
 ||reddit.com/r/MaddyDietz^
@@ -9454,7 +9454,7 @@
 ||reddit.com/r/OnlyFansIreland^
 ||reddit.com/r/onlyfansjustright^
 ||reddit.com/r/onlyfanskuumikset^
-||reddit.com/r/OnlyFanslyNSFW^
+||reddit.com/r/onlyfanslynsfw^
 ||reddit.com/r/onlyfansmilf^
 ||reddit.com/r/onlyfansnaturallyhot^
 ||reddit.com/r/onlyfansnebraska^
@@ -9790,7 +9790,7 @@
 ||reddit.com/r/PenisSleeve^
 ||reddit.com/r/Pennsylvania4NUDES^
 ||reddit.com/r/pennsylvaniadirtyr4r^
-||reddit.com/r/pennsylvaniansa^
+||reddit.com/r/PennsylvaniaNSA^
 ||reddit.com/r/PennyBarber_XXX^
 ||reddit.com/r/PennyLane^
 ||reddit.com/r/Pennylove__^
@@ -10397,7 +10397,6 @@
 ||reddit.com/r/pupcouple^
 ||reddit.com/r/PupPlay^
 ||reddit.com/r/pupplaykink^
-||reddit.com/r/puppygirlpetsmart^
 ||reddit.com/r/puppygirls^
 ||reddit.com/r/PurahR34^
 ||reddit.com/r/purefemboy^
@@ -10413,7 +10412,7 @@
 ||reddit.com/r/pussy_asshole_rating^
 ||reddit.com/r/pussy_closeup_only^
 ||reddit.com/r/pussy_from_behind^
-||reddit.com/r/pussy_nectar^
+||reddit.com/r/Pussy_Nectar^
 ||reddit.com/r/Pussy_Perfection^
 ||reddit.com/r/pussy_selfies^
 ||reddit.com/r/pussy_shrine^
@@ -13450,7 +13449,6 @@
 ||reddit.com/r/usedsocks^
 ||reddit.com/r/usedsocksforsale^
 ||reddit.com/r/useher3^
-||reddit.com/r/usehermouth^
 ||reddit.com/r/usehisholes^
 ||reddit.com/r/ussbbwss^
 ||reddit.com/r/utah_bi_females^
