@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: Reddit NSFW Subreddit Blocklist
 ! Description: Blocks reviewed Reddit community URL paths from three public source lists.
-! Rules: 14157
+! Rules: 14155
 ! Source: RandomNSFW; accepted: 2914; rejected: 1; SHA-256: 9fb058561e73825a33507c76302ab25d5b9bf7d2a2316089b51a032b57b4ddde
 ! URL: https://raw.githubusercontent.com/dlln147/RandomNSFW/refs/heads/main/RandomNSFW
-! Source: Postpone top 5,000; accepted: 5000; rejected: 0; SHA-256: 88513de717367d3739f5f4c74a80b9dbf2d2ab4b3cd1818233d6cb6c9e661e03
+! Source: Postpone top 5,000; accepted: 5000; rejected: 0; SHA-256: 874ee7400eb8deb2cd215cc12ed08d1ee4c44fd461065229a5b59e6f200d21da
 ! URL: https://api.postpone.app/api/reddit/nsfw-subreddits/?limit=5000
-! Source: Kinky Tourist 26-part list; accepted: 12995; rejected: 0; SHA-256: 0a3b8ec951ad4b5fe0e119650a861afe8c31f1bf2b6674ca42c6f614f663d4e9
+! Source: Kinky Tourist 26-part list; accepted: 12995; rejected: 0; SHA-256: c9075a5f874da158e7c21a3c4763d1c9133258ce8f918a46a3ea5ee5145d8e67
 ! URL: https://thekinkytourist.com/subreddits/
 
 ||reddit.com/r/07nsfw^
@@ -359,7 +359,7 @@
 ||reddit.com/r/Allabout_ass^
 ||reddit.com/r/allamateurwomen^
 ||reddit.com/r/AllAmericanCocks^
-||reddit.com/r/AllAnalAllCumAllPiss^
+||reddit.com/r/allanalallcumallpiss^
 ||reddit.com/r/allanglesatonce^
 ||reddit.com/r/AlldayfuckNSFW^
 ||reddit.com/r/AllEbonyAnal^
@@ -525,7 +525,7 @@
 ||reddit.com/r/analcreampieswallow^
 ||reddit.com/r/analdaily^
 ||reddit.com/r/AnalDepthToys^
-||reddit.com/r/analdildogirls^
+||reddit.com/r/AnalDildoGirls^
 ||reddit.com/r/AnalGape^
 ||reddit.com/r/AnalGapeFans^
 ||reddit.com/r/AnalGapeMakers^
@@ -4564,7 +4564,6 @@
 ||reddit.com/r/FemboyCoalition^
 ||reddit.com/r/FemboyCulture^
 ||reddit.com/r/femboycum^
-||reddit.com/r/femboydom^
 ||reddit.com/r/FemboyFantasys^
 ||reddit.com/r/femboyfashion^
 ||reddit.com/r/femboyfeetpics^
@@ -5593,7 +5592,7 @@
 ||reddit.com/r/GloveFet^
 ||reddit.com/r/GloveLove^
 ||reddit.com/r/glowtits^
-||reddit.com/r/GluteGirls^
+||reddit.com/r/glutegirls^
 ||reddit.com/r/goblingirls^
 ||reddit.com/r/GoblinSlayerNSFW^
 ||reddit.com/r/GodAsshole^
@@ -6737,7 +6736,6 @@
 ||reddit.com/r/indiancelebs^
 ||reddit.com/r/indiancelebscenes^
 ||reddit.com/r/indiancucksgw^
-||reddit.com/r/indiangirlai^
 ||reddit.com/r/IndianGirlButtplug^
 ||reddit.com/r/indiangirls^
 ||reddit.com/r/indiangoddess^
@@ -7481,6 +7479,7 @@
 ||reddit.com/r/LatinboysX^
 ||reddit.com/r/latinchickslatindicks^
 ||reddit.com/r/latinchickswhitedicks^
+||reddit.com/r/latinhotclub^
 ||reddit.com/r/latinocockandface^
 ||reddit.com/r/latinomen^
 ||reddit.com/r/LatinoTeenMassiveCock^
@@ -7570,7 +7569,7 @@
 ||reddit.com/r/LesbianRapeHentaiNSFW^
 ||reddit.com/r/LesbianRim^
 ||reddit.com/r/lesbians^
-||reddit.com/r/LesbianSexPorn^
+||reddit.com/r/lesbiansexporn^
 ||reddit.com/r/LesbianSextingHeaven^
 ||reddit.com/r/lesbiansloppykisses^
 ||reddit.com/r/LesbiansMate^
@@ -8284,7 +8283,7 @@
 ||reddit.com/r/milfs_and_stepmoms^
 ||reddit.com/r/milfs_are_wild^
 ||reddit.com/r/milfs_cougars^
-||reddit.com/r/Milfs_Fucking^
+||reddit.com/r/milfs_fucking^
 ||reddit.com/r/milfs_gw^
 ||reddit.com/r/milfsandgirls^
 ||reddit.com/r/milfsbooty^
@@ -10045,7 +10044,7 @@
 ||reddit.com/r/PMclub^
 ||reddit.com/r/PnP_Toronto^
 ||reddit.com/r/pnpATX^
-||reddit.com/r/Pnpgay^
+||reddit.com/r/pnpgay^
 ||reddit.com/r/pnpindy^
 ||reddit.com/r/pnpplayground^
 ||reddit.com/r/pnw_4_adults^
@@ -10803,7 +10802,7 @@
 ||reddit.com/r/ridingfetish^
 ||reddit.com/r/RidingGood^
 ||reddit.com/r/RidingTheWoodenHorse^
-||reddit.com/r/ridingtitsface^
+||reddit.com/r/RidingTitsFace^
 ||reddit.com/r/ridingxxx^
 ||reddit.com/r/RihannaAss^
 ||reddit.com/r/Rikki_Six^
@@ -12441,7 +12440,6 @@
 ||reddit.com/r/Tamponstringwnsfw^
 ||reddit.com/r/TanCheeks^
 ||reddit.com/r/taniabann^
-||reddit.com/r/tanime^
 ||reddit.com/r/tanktoptitz^
 ||reddit.com/r/tanlines_gone_wild^
 ||reddit.com/r/tanlineshentai^
@@ -12545,7 +12543,7 @@
 ||reddit.com/r/Tennesseebrostrokers^
 ||reddit.com/r/TennesseeNSFW^
 ||reddit.com/r/TennesseePreggos^
-||reddit.com/r/tennesseeswingers^
+||reddit.com/r/TennesseeSwingers^
 ||reddit.com/r/Tenngonewild^
 ||reddit.com/r/TentacleAI^
 ||reddit.com/r/Tentai^
