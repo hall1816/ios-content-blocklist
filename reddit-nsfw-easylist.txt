@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: Reddit NSFW Subreddit Blocklist
 ! Description: Blocks reviewed Reddit community URL paths from three public source lists.
-! Rules: 14155
+! Rules: 14158
 ! Source: RandomNSFW; accepted: 2914; rejected: 1; SHA-256: 9fb058561e73825a33507c76302ab25d5b9bf7d2a2316089b51a032b57b4ddde
 ! URL: https://raw.githubusercontent.com/dlln147/RandomNSFW/refs/heads/main/RandomNSFW
-! Source: Postpone top 5,000; accepted: 5000; rejected: 0; SHA-256: 874ee7400eb8deb2cd215cc12ed08d1ee4c44fd461065229a5b59e6f200d21da
+! Source: Postpone top 5,000; accepted: 5000; rejected: 0; SHA-256: cdafc276dd58cf0c2fd9a8d0ba37c567c7582744b2084a31ac0840cedec64a90
 ! URL: https://api.postpone.app/api/reddit/nsfw-subreddits/?limit=5000
-! Source: Kinky Tourist 26-part list; accepted: 12995; rejected: 0; SHA-256: c9075a5f874da158e7c21a3c4763d1c9133258ce8f918a46a3ea5ee5145d8e67
+! Source: Kinky Tourist 26-part list; accepted: 12995; rejected: 0; SHA-256: 0db8e24a5b4382892cd62caeb52d91955ba44085e1c2c52c143f4eec6342475f
 ! URL: https://thekinkytourist.com/subreddits/
 
 ||reddit.com/r/07nsfw^
@@ -359,7 +359,7 @@
 ||reddit.com/r/Allabout_ass^
 ||reddit.com/r/allamateurwomen^
 ||reddit.com/r/AllAmericanCocks^
-||reddit.com/r/allanalallcumallpiss^
+||reddit.com/r/AllAnalAllCumAllPiss^
 ||reddit.com/r/allanglesatonce^
 ||reddit.com/r/AlldayfuckNSFW^
 ||reddit.com/r/AllEbonyAnal^
@@ -441,7 +441,7 @@
 ||reddit.com/r/amateurbbcsluts^
 ||reddit.com/r/amateurbbw_gonewild^
 ||reddit.com/r/amateurblowjobss^
-||reddit.com/r/amateurbootybattle^
+||reddit.com/r/AmateurBootyBattle^
 ||reddit.com/r/amateurbritish^
 ||reddit.com/r/AmateurBrits^
 ||reddit.com/r/amateurcontent^
@@ -757,7 +757,6 @@
 ||reddit.com/r/ArmsUp^
 ||reddit.com/r/ArmsUpBoobsOut^
 ||reddit.com/r/armsupporn^
-||reddit.com/r/aromasensei^
 ||reddit.com/r/ArousingDinos^
 ||reddit.com/r/ARr4r^
 ||reddit.com/r/art_bdsm^
@@ -828,7 +827,7 @@
 ||reddit.com/r/asianmadness^
 ||reddit.com/r/asianmassageporn^
 ||reddit.com/r/AsianMenandWhiteBoys^
-||reddit.com/r/AsianMILF_GoneWild^
+||reddit.com/r/asianmilf_gonewild^
 ||reddit.com/r/AsianMombod^
 ||reddit.com/r/AsianMomsNude^
 ||reddit.com/r/AsianNSFW^
@@ -1330,7 +1329,7 @@
 ||reddit.com/r/BbwPorn^
 ||reddit.com/r/bbwpussys^
 ||reddit.com/r/BBWRedheads^
-||reddit.com/r/BBWs_Worldwide^
+||reddit.com/r/bbws_worldwide^
 ||reddit.com/r/bbwselfies^
 ||reddit.com/r/bbwselfiesGW^
 ||reddit.com/r/BBWShowering^
@@ -1397,7 +1396,7 @@
 ||reddit.com/r/beautifulandnaked^
 ||reddit.com/r/Beautifulbaldpussy^
 ||reddit.com/r/beautifulbutt^
-||reddit.com/r/BeautifulChastity^
+||reddit.com/r/beautifulchastity^
 ||reddit.com/r/BeautifulCutePornstar^
 ||reddit.com/r/BeautifulFemales^
 ||reddit.com/r/beautifulfucking^
@@ -1621,6 +1620,7 @@
 ||reddit.com/r/bigdickjoy^
 ||reddit.com/r/bigdicklovers^
 ||reddit.com/r/BigDickPride^
+||reddit.com/r/bigdickproblems^
 ||reddit.com/r/BigDicksAtWork^
 ||reddit.com/r/bigdickstightlips^
 ||reddit.com/r/bigdickwhitedudes^
@@ -2000,7 +2000,7 @@
 ||reddit.com/r/boobsglory^
 ||reddit.com/r/boobsinframe^
 ||reddit.com/r/boobsmotel^
-||reddit.com/r/boobsnation^
+||reddit.com/r/BoobsNation^
 ||reddit.com/r/BoobsOfOnlyfans^
 ||reddit.com/r/BoobsPussyAndAss^
 ||reddit.com/r/boobspussyass^
@@ -2045,7 +2045,7 @@
 ||reddit.com/r/boredmoms^
 ||reddit.com/r/BorednIgnored^
 ||reddit.com/r/BornToBeFucked^
-||reddit.com/r/borntobesluts^
+||reddit.com/r/BornToBeSluts^
 ||reddit.com/r/BorutoHentai_^
 ||reddit.com/r/bosombuddies^
 ||reddit.com/r/bostongonewild^
@@ -2097,7 +2097,7 @@
 ||reddit.com/r/BralessGoneWild^
 ||reddit.com/r/bralessinmotion^
 ||reddit.com/r/BralessSelfies^
-||reddit.com/r/bralesstease^
+||reddit.com/r/BralessTease^
 ||reddit.com/r/bralesswoman^
 ||reddit.com/r/BrandiBae^
 ||reddit.com/r/BrandiLove^
@@ -2150,7 +2150,7 @@
 ||reddit.com/r/BreedingExperience^
 ||reddit.com/r/breedingfamilys^
 ||reddit.com/r/BreedingGoneWild^
-||reddit.com/r/breedinghotwives^
+||reddit.com/r/Breedinghotwives^
 ||reddit.com/r/breedinglab^
 ||reddit.com/r/BreedingMaterial^
 ||reddit.com/r/BreedingOntario^
@@ -2304,7 +2304,7 @@
 ||reddit.com/r/BustyPetiteGirlz^
 ||reddit.com/r/bustyqueens^
 ||reddit.com/r/BustySlut^
-||reddit.com/r/BustyTeensSex^
+||reddit.com/r/bustyteenssex^
 ||reddit.com/r/BustyWorld^
 ||reddit.com/r/Butchporn^
 ||reddit.com/r/butt^
@@ -2555,7 +2555,6 @@
 ||reddit.com/r/celebrity_cleavage^
 ||reddit.com/r/celebrity_pussy^
 ||reddit.com/r/celebrity_soles^
-||reddit.com/r/celebrityasses^
 ||reddit.com/r/celebritybelly^
 ||reddit.com/r/CelebrityBodySwapping^
 ||reddit.com/r/celebritybulge^
@@ -3049,7 +3048,6 @@
 ||reddit.com/r/compilationsofporn^
 ||reddit.com/r/ComplexionExcellence^
 ||reddit.com/r/complimentbattles^
-||reddit.com/r/computertechs^
 ||reddit.com/r/concentrates^
 ||reddit.com/r/CondomBlowjobs^
 ||reddit.com/r/Condomsgonewild^
@@ -3274,7 +3272,7 @@
 ||reddit.com/r/CuckoldPregnancy3^
 ||reddit.com/r/cuckoldpsychology^
 ||reddit.com/r/cuckolds_gw^
-||reddit.com/r/CuckoldSearchingBull^
+||reddit.com/r/cuckoldsearchingbull^
 ||reddit.com/r/cuckoldsissys^
 ||reddit.com/r/cuckoldstories2^
 ||reddit.com/r/CuckoldSwingers^
@@ -3640,7 +3638,7 @@
 ||reddit.com/r/Delhi_exhibitionists^
 ||reddit.com/r/delhi_g_wild^
 ||reddit.com/r/delhi_gonewild^
-||reddit.com/r/Delhigays^
+||reddit.com/r/delhigays^
 ||reddit.com/r/delhigone_wild^
 ||reddit.com/r/DelhiGoneWildnew^
 ||reddit.com/r/DelhiNCR_GWild^
@@ -3670,6 +3668,7 @@
 ||reddit.com/r/desiassspread^
 ||reddit.com/r/Desibadan^
 ||reddit.com/r/desibbwrand^
+||reddit.com/r/desibhabhichudai^
 ||reddit.com/r/desiboner^
 ||reddit.com/r/desiboobies^
 ||reddit.com/r/Desibuttplugs^
@@ -3704,6 +3703,7 @@
 ||reddit.com/r/DesiuploadsVDesiPorn^
 ||reddit.com/r/desiwhorewife^
 ||reddit.com/r/desiwifepublicgw^
+||reddit.com/r/desiwomenlove^
 ||reddit.com/r/desmoines_Swingers^
 ||reddit.com/r/despacito^
 ||reddit.com/r/DesperateNSFW^
@@ -3849,7 +3849,7 @@
 ||reddit.com/r/DirtyStoryWriting^
 ||reddit.com/r/DirtyTalkGirls^
 ||reddit.com/r/dirtytalkporn^
-||reddit.com/r/dirtytex^
+||reddit.com/r/DirtyTex^
 ||reddit.com/r/dirtytucson^
 ||reddit.com/r/dirtyUKr4r^
 ||reddit.com/r/dirtywhoresfordaddies^
@@ -3940,7 +3940,6 @@
 ||reddit.com/r/DoveCameronLewd^
 ||reddit.com/r/downblouse^
 ||reddit.com/r/DownblouseGirls^
-||reddit.com/r/downblouseindia^
 ||reddit.com/r/doyourlines^
 ||reddit.com/r/dp_doublepenetration^
 ||reddit.com/r/DPDP^
@@ -4282,7 +4281,7 @@
 ||reddit.com/r/EverydayDadCock^
 ||reddit.com/r/EverythingButt^
 ||reddit.com/r/EverythingCondom^
-||reddit.com/r/EverythingGoonCaption^
+||reddit.com/r/everythinggooncaption^
 ||reddit.com/r/everythingintheverse^
 ||reddit.com/r/EverythingTrap_Trans^
 ||reddit.com/r/Evesgarden^
@@ -4436,7 +4435,7 @@
 ||reddit.com/r/farmgirls^
 ||reddit.com/r/fascistmisogynyfather^
 ||reddit.com/r/fashionextramile^
-||reddit.com/r/Fastcummers^
+||reddit.com/r/fastcummers^
 ||reddit.com/r/fastsexting^
 ||reddit.com/r/FastSextingNow^
 ||reddit.com/r/fat^
@@ -4554,7 +4553,7 @@
 ||reddit.com/r/femboy^
 ||reddit.com/r/Femboy_Turkey^
 ||reddit.com/r/FemboyAnalGW^
-||reddit.com/r/FemboyandFutaHentai^
+||reddit.com/r/femboyandfutahentai^
 ||reddit.com/r/femboyAssCentral^
 ||reddit.com/r/FemboyBadDragon^
 ||reddit.com/r/femboybdsm^
@@ -4813,6 +4812,7 @@
 ||reddit.com/r/fnafporncomic^
 ||reddit.com/r/Fnafporngay^
 ||reddit.com/r/fnafpornrp^
+||reddit.com/r/fnia_^
 ||reddit.com/r/Foconsfw^
 ||reddit.com/r/FOMNP^
 ||reddit.com/r/FonM_NSFW^
@@ -5104,7 +5104,7 @@
 ||reddit.com/r/FuzzyFemVibe^
 ||reddit.com/r/FuzzyPeeks^
 ||reddit.com/r/fwatchingmm^
-||reddit.com/r/FWB_LosAngeles^
+||reddit.com/r/fwb_losangeles^
 ||reddit.com/r/FwbmeetupIndiana^
 ||reddit.com/r/FWBNorthCarolina^
 ||reddit.com/r/FwbWI^
@@ -5198,7 +5198,7 @@
 ||reddit.com/r/gaydadsandboys^
 ||reddit.com/r/GayDailyUndies^
 ||reddit.com/r/GayDenverHookUp^
-||reddit.com/r/GayDomDaddysubboy^
+||reddit.com/r/gaydomdaddysubboy^
 ||reddit.com/r/gaydomsuboklahoma^
 ||reddit.com/r/GayDoublePenetration^
 ||reddit.com/r/GayEdmontonNSFW^
@@ -5565,7 +5565,7 @@
 ||reddit.com/r/GlamourModel^
 ||reddit.com/r/GlansectomyDIY^
 ||reddit.com/r/Glanstexture^
-||reddit.com/r/glasgowslutsgw^
+||reddit.com/r/glasgowslutsGW^
 ||reddit.com/r/glassdildo^
 ||reddit.com/r/Glasses_gone_wild^
 ||reddit.com/r/glassesandhotasses^
@@ -5705,7 +5705,7 @@
 ||reddit.com/r/goonhub4u^
 ||reddit.com/r/gooniesyd^
 ||reddit.com/r/gooningasians^
-||reddit.com/r/GooningGalore^
+||reddit.com/r/gooninggalore^
 ||reddit.com/r/gooninghentai^
 ||reddit.com/r/gooningtrees^
 ||reddit.com/r/GoonSaloon^
@@ -6057,7 +6057,7 @@
 ||reddit.com/r/HeartEyedHentai^
 ||reddit.com/r/Heartnips^
 ||reddit.com/r/HeartShapedHentai^
-||reddit.com/r/heartshapedpussy^
+||reddit.com/r/HeartShapedPussy^
 ||reddit.com/r/HeatAddiction^
 ||reddit.com/r/heatherharmon^
 ||reddit.com/r/heavengirls^
@@ -6123,7 +6123,6 @@
 ||reddit.com/r/HentaiAnimeNSFWGaming^
 ||reddit.com/r/HentaiBeast^
 ||reddit.com/r/hentaibitchsuits^
-||reddit.com/r/hentaibnwo_revived^
 ||reddit.com/r/hentaibodywriting^
 ||reddit.com/r/hentaibondage^
 ||reddit.com/r/HentaiBondageTales^
@@ -6553,7 +6552,7 @@
 ||reddit.com/r/Hugefakeboobs^
 ||reddit.com/r/hugefutanari^
 ||reddit.com/r/HugeHandbra^
-||reddit.com/r/HugeHips^
+||reddit.com/r/hugehips^
 ||reddit.com/r/hugelabialove^
 ||reddit.com/r/HugeLoadsAndTits^
 ||reddit.com/r/hugenaturals^
@@ -6703,7 +6702,7 @@
 ||reddit.com/r/IncestCreampies^
 ||reddit.com/r/incestflixxx^
 ||reddit.com/r/incesthentailegal^
-||reddit.com/r/IncestObsessed^
+||reddit.com/r/incestobsessed^
 ||reddit.com/r/IncestRPnsfw^
 ||reddit.com/r/incestsexstories^
 ||reddit.com/r/IncestSnaps^
@@ -6736,6 +6735,7 @@
 ||reddit.com/r/indiancelebs^
 ||reddit.com/r/indiancelebscenes^
 ||reddit.com/r/indiancucksgw^
+||reddit.com/r/indiangirlai^
 ||reddit.com/r/IndianGirlButtplug^
 ||reddit.com/r/indiangirls^
 ||reddit.com/r/indiangoddess^
@@ -7387,7 +7387,6 @@
 ||reddit.com/r/ladiesofthemcu^
 ||reddit.com/r/ladiesofwrestling^
 ||reddit.com/r/LadiesWhoDontSell^
-||reddit.com/r/ladieswithshorthair^
 ||reddit.com/r/LadyBonerOFaces^
 ||reddit.com/r/LadyBonersGoneKinky^
 ||reddit.com/r/ladybonersgw^
@@ -7463,7 +7462,7 @@
 ||reddit.com/r/latinas^
 ||reddit.com/r/Latinas4BWC^
 ||reddit.com/r/latinas_amatuer_only^
-||reddit.com/r/LatinasBJ^
+||reddit.com/r/latinasbj^
 ||reddit.com/r/latinasculonas2025^
 ||reddit.com/r/LatinaSexPorn^
 ||reddit.com/r/LatinasFetish^
@@ -7510,7 +7509,6 @@
 ||reddit.com/r/leanbeefpatty^
 ||reddit.com/r/leannadecker^
 ||reddit.com/r/leannecrow^
-||reddit.com/r/learmanntwins^
 ||reddit.com/r/learnHentaiDrawing^
 ||reddit.com/r/learningfromothers^
 ||reddit.com/r/LegalCollegeGirls^
@@ -7550,6 +7548,7 @@
 ||reddit.com/r/LeraKovalenko^
 ||reddit.com/r/les_cucking^
 ||reddit.com/r/Les_Gourmands^
+||reddit.com/r/lesbian_foot_worship^
 ||reddit.com/r/Lesbian_gifs^
 ||reddit.com/r/LesbianAsianGirls^
 ||reddit.com/r/LesbianAssFingering^
@@ -7569,7 +7568,7 @@
 ||reddit.com/r/LesbianRapeHentaiNSFW^
 ||reddit.com/r/LesbianRim^
 ||reddit.com/r/lesbians^
-||reddit.com/r/lesbiansexporn^
+||reddit.com/r/LesbianSexPorn^
 ||reddit.com/r/LesbianSextingHeaven^
 ||reddit.com/r/lesbiansloppykisses^
 ||reddit.com/r/LesbiansMate^
@@ -7716,7 +7715,7 @@
 ||reddit.com/r/LongTongueGodesses^
 ||reddit.com/r/lookback^
 ||reddit.com/r/LookingforOFcontent^
-||reddit.com/r/lookinghotaf^
+||reddit.com/r/LookinghotAF^
 ||reddit.com/r/loona_nsfw^
 ||reddit.com/r/loona_yiff^
 ||reddit.com/r/Loonergirl^
@@ -7742,7 +7741,7 @@
 ||reddit.com/r/Louisianafgonewild^
 ||reddit.com/r/LouisianaGangbang^
 ||reddit.com/r/LouisianaGloryholes^
-||reddit.com/r/louisianagonewild^
+||reddit.com/r/LouisianaGoneWild^
 ||reddit.com/r/LouisianaSwingers^
 ||reddit.com/r/louisvillethreewayffm^
 ||reddit.com/r/LoungeUnderwearGW^
@@ -7791,7 +7790,7 @@
 ||reddit.com/r/LucyLi^
 ||reddit.com/r/luluchu^
 ||reddit.com/r/lululemonleggingz^
-||reddit.com/r/LumineNSFW^
+||reddit.com/r/luminensfw^
 ||reddit.com/r/LunaBenna^
 ||reddit.com/r/LunaStar^
 ||reddit.com/r/Lusamine^
@@ -7819,7 +7818,7 @@
 ||reddit.com/r/MacroFetish^
 ||reddit.com/r/macromastiacam^
 ||reddit.com/r/macromastiairl^
-||reddit.com/r/macromastiaqueens^
+||reddit.com/r/MacromastiaQueens^
 ||reddit.com/r/Macrophilia^
 ||reddit.com/r/MacroRP2^
 ||reddit.com/r/MaddyDietz^
@@ -8050,7 +8049,7 @@
 ||reddit.com/r/McKenzieLee^
 ||reddit.com/r/MDLGcommunity^
 ||reddit.com/r/mdma^
-||reddit.com/r/MDMAMollyGoneWild^
+||reddit.com/r/mdmamollygonewild^
 ||reddit.com/r/Me1adinha^
 ||reddit.com/r/Me_in_underwear^
 ||reddit.com/r/MeadowNymphs^
@@ -8787,7 +8786,7 @@
 ||reddit.com/r/NeatBush^
 ||reddit.com/r/Nebraskawut^
 ||reddit.com/r/necktacular^
-||reddit.com/r/nederlandgonewild^
+||reddit.com/r/NederlandGoneWild^
 ||reddit.com/r/NederlandRukken^
 ||reddit.com/r/NederlandsBi_M_F^
 ||reddit.com/r/nederlandsegeilheid^
@@ -9556,6 +9555,7 @@
 ||reddit.com/r/OrlandoGloryHoles^
 ||reddit.com/r/OrlandoHookupsR4R^
 ||reddit.com/r/orlandor4r^
+||reddit.com/r/orslokx^
 ||reddit.com/r/OshiNoKo_Hentai^
 ||reddit.com/r/OttawaArea_NSFW^
 ||reddit.com/r/OttawaBimen^
@@ -9820,7 +9820,7 @@
 ||reddit.com/r/PerkyButts^
 ||reddit.com/r/PerkyChubby^
 ||reddit.com/r/Permanent_Nude^
-||reddit.com/r/PermanentBondageBDSM^
+||reddit.com/r/permanentbondagebdsm^
 ||reddit.com/r/permanentchastity^
 ||reddit.com/r/perridotspalmtree^
 ||reddit.com/r/Persona34^
@@ -9977,7 +9977,7 @@
 ||reddit.com/r/pissdrinkingsluts^
 ||reddit.com/r/pissification^
 ||reddit.com/r/pissing^
-||reddit.com/r/pissingassholes^
+||reddit.com/r/PissingAssholes^
 ||reddit.com/r/pissinghentai^
 ||reddit.com/r/PissingPeeingPorn^
 ||reddit.com/r/PissingPenis^
@@ -10044,7 +10044,7 @@
 ||reddit.com/r/PMclub^
 ||reddit.com/r/PnP_Toronto^
 ||reddit.com/r/pnpATX^
-||reddit.com/r/pnpgay^
+||reddit.com/r/Pnpgay^
 ||reddit.com/r/pnpindy^
 ||reddit.com/r/pnpplayground^
 ||reddit.com/r/pnw_4_adults^
@@ -10396,6 +10396,7 @@
 ||reddit.com/r/pupcouple^
 ||reddit.com/r/PupPlay^
 ||reddit.com/r/pupplaykink^
+||reddit.com/r/puppygirlpetsmart^
 ||reddit.com/r/puppygirls^
 ||reddit.com/r/PurahR34^
 ||reddit.com/r/purefemboy^
@@ -10411,7 +10412,7 @@
 ||reddit.com/r/pussy_asshole_rating^
 ||reddit.com/r/pussy_closeup_only^
 ||reddit.com/r/pussy_from_behind^
-||reddit.com/r/Pussy_Nectar^
+||reddit.com/r/pussy_nectar^
 ||reddit.com/r/Pussy_Perfection^
 ||reddit.com/r/pussy_selfies^
 ||reddit.com/r/pussy_shrine^
@@ -10584,6 +10585,7 @@
 ||reddit.com/r/rate_my_feet^
 ||reddit.com/r/rate_my_nipples^
 ||reddit.com/r/rate_my_pussy^
+||reddit.com/r/rate_my_tits^
 ||reddit.com/r/rate_my_wife_^
 ||reddit.com/r/RateHerSquirt^
 ||reddit.com/r/RateMyAss^
@@ -10993,7 +10995,7 @@
 ||reddit.com/r/SanAntonioWomenNSFW^
 ||reddit.com/r/sandalsfetish^
 ||reddit.com/r/SanDiego_FWB^
-||reddit.com/r/SanDiegoAdultsOnly^
+||reddit.com/r/sandiegoadultsonly^
 ||reddit.com/r/SanDiegoAdultTheater2^
 ||reddit.com/r/SanDiegoAdultTheater3^
 ||reddit.com/r/sandiegococklovers^
@@ -11651,7 +11653,7 @@
 ||reddit.com/r/sissywhitebois4bnwo^
 ||reddit.com/r/Sister_Daughter_Bully^
 ||reddit.com/r/SistersNSFW^
-||reddit.com/r/SISwimsuitGirls^
+||reddit.com/r/siswimsuitgirls^
 ||reddit.com/r/SitOnIt^
 ||reddit.com/r/sitonyourface^
 ||reddit.com/r/sittingdancerpose^
@@ -11692,7 +11694,7 @@
 ||reddit.com/r/Skunkchatbots^
 ||reddit.com/r/SkunkGirlHentai^
 ||reddit.com/r/skybri_xxx^
-||reddit.com/r/skyebluemodel^
+||reddit.com/r/SkyeBlueModel^
 ||reddit.com/r/SkyeBlueOffical^
 ||reddit.com/r/skylanovea^
 ||reddit.com/r/SkylarValentineXXX^
@@ -11921,6 +11923,7 @@
 ||reddit.com/r/SombraNSFWr34^
 ||reddit.com/r/someofyoumaydie^
 ||reddit.com/r/somersetfun_uk^
+||reddit.com/r/sommerray^
 ||reddit.com/r/SoniaNSFW^
 ||reddit.com/r/Sonicnsfwgay^
 ||reddit.com/r/SonicPorn^
@@ -12123,7 +12126,6 @@
 ||reddit.com/r/StayHomePOV^
 ||reddit.com/r/staytoon^
 ||reddit.com/r/StCharlesMOr4r^
-||reddit.com/r/stealthhentai^
 ||reddit.com/r/StealthVibes^
 ||reddit.com/r/SteamUncensored^
 ||reddit.com/r/steamytease^
@@ -12436,7 +12438,7 @@
 ||reddit.com/r/TampaBiGaySluts^
 ||reddit.com/r/tampacuckcpls^
 ||reddit.com/r/tampahotties^
-||reddit.com/r/tampaswingers^
+||reddit.com/r/TampaSwingers^
 ||reddit.com/r/Tamponstringwnsfw^
 ||reddit.com/r/TanCheeks^
 ||reddit.com/r/taniabann^
@@ -12496,7 +12498,7 @@
 ||reddit.com/r/Technical_DP^
 ||reddit.com/r/TedBundy^
 ||reddit.com/r/teen1819gw^
-||reddit.com/r/teenanal_^
+||reddit.com/r/TeenAnal_^
 ||reddit.com/r/TeenAndSlut^
 ||reddit.com/r/TeenBBW^
 ||reddit.com/r/TeenBeauties^
@@ -12543,7 +12545,7 @@
 ||reddit.com/r/Tennesseebrostrokers^
 ||reddit.com/r/TennesseeNSFW^
 ||reddit.com/r/TennesseePreggos^
-||reddit.com/r/TennesseeSwingers^
+||reddit.com/r/tennesseeswingers^
 ||reddit.com/r/Tenngonewild^
 ||reddit.com/r/TentacleAI^
 ||reddit.com/r/Tentai^
@@ -13327,7 +13329,7 @@
 ||reddit.com/r/UKSwinging^
 ||reddit.com/r/UKTransGoneWild^
 ||reddit.com/r/uktrees^
-||reddit.com/r/UKWifeSharing^
+||reddit.com/r/ukwifesharing^
 ||reddit.com/r/UltimateAsses^
 ||reddit.com/r/UltimateOnOffs^
 ||reddit.com/r/ultimatesurrenderkink^
@@ -13437,7 +13439,7 @@
 ||reddit.com/r/Used_Fucked_Pussy^
 ||reddit.com/r/usedboxers^
 ||reddit.com/r/usedpanties^
-||reddit.com/r/usedpanties4u^
+||reddit.com/r/UsedPanties4u^
 ||reddit.com/r/UsedPantiesCanada^
 ||reddit.com/r/usedpantiesmidwest^
 ||reddit.com/r/UsedPantiesSouth^
@@ -13611,6 +13613,7 @@
 ||reddit.com/r/Vivian_Rose^
 ||reddit.com/r/VividVivka^
 ||reddit.com/r/Vixen_Bikini^
+||reddit.com/r/vixen_com^
 ||reddit.com/r/Vixen_Plus^
 ||reddit.com/r/vixen_to_blacked^
 ||reddit.com/r/Vixenaigirl^
@@ -13774,7 +13777,7 @@
 ||reddit.com/r/whitetoedgodesses^
 ||reddit.com/r/whitetoes^
 ||reddit.com/r/whitetonguefetish^
-||reddit.com/r/whitewomengonewild^
+||reddit.com/r/WhiteWomenGoneWild^
 ||reddit.com/r/Whitney_Westgate^
 ||reddit.com/r/WhoIsThisGayPorn^
 ||reddit.com/r/wholesomearaara^
@@ -14076,7 +14079,7 @@
 ||reddit.com/r/yolostuds^
 ||reddit.com/r/yoloyoga^
 ||reddit.com/r/yoopersforfun^
-||reddit.com/r/yorforgernsfw^
+||reddit.com/r/YorForgerNSFW^
 ||reddit.com/r/Yoruichi_AI_Art^
 ||reddit.com/r/young_open_pussy^
 ||reddit.com/r/youngasshole^
@@ -14142,7 +14145,7 @@
 ||reddit.com/r/ZaawaadiX^
 ||reddit.com/r/ZaneWintersFiction^
 ||reddit.com/r/ZeldaHentaiAI^
-||reddit.com/r/zeldaporn^
+||reddit.com/r/ZeldaPorn^
 ||reddit.com/r/zeldass^
 ||reddit.com/r/ZENDAYAWORSHIPPING^
 ||reddit.com/r/zenlesszonensfw^
@@ -14163,4 +14166,4 @@
 ||reddit.com/r/ZootopiaPorn^
 ||reddit.com/r/Zoroark34^
 ||reddit.com/r/zulu_maidens^
-||reddit.com/r/ZZZhentai_^
+||reddit.com/r/zzzhentai_^
