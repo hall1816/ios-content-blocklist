@@ -4,9 +4,9 @@
 ! Rules: 14158
 ! Source: RandomNSFW; accepted: 2914; rejected: 1; SHA-256: 9fb058561e73825a33507c76302ab25d5b9bf7d2a2316089b51a032b57b4ddde
 ! URL: https://raw.githubusercontent.com/dlln147/RandomNSFW/refs/heads/main/RandomNSFW
-! Source: Postpone top 5,000; accepted: 5000; rejected: 0; SHA-256: cdafc276dd58cf0c2fd9a8d0ba37c567c7582744b2084a31ac0840cedec64a90
+! Source: Postpone top 5,000; accepted: 5000; rejected: 0; SHA-256: ca184cc358f8f70a19b28ef0437cfcfa7c53a0eafe773f0d1e5ed2807d921bf7
 ! URL: https://api.postpone.app/api/reddit/nsfw-subreddits/?limit=5000
-! Source: Kinky Tourist 26-part list; accepted: 12995; rejected: 0; SHA-256: 0db8e24a5b4382892cd62caeb52d91955ba44085e1c2c52c143f4eec6342475f
+! Source: Kinky Tourist 26-part list; accepted: 12995; rejected: 0; SHA-256: 1b5179ae1eb1d03f18d30a526189745ccf9e710d25b91dfb1a065262276e1216
 ! URL: https://thekinkytourist.com/subreddits/
 
 ||reddit.com/r/07nsfw^
@@ -550,7 +550,7 @@
 ||reddit.com/r/AnalSizeQueen^
 ||reddit.com/r/analsquirt^
 ||reddit.com/r/analstretching^
-||reddit.com/r/analtoysonly^
+||reddit.com/r/AnalToysOnly^
 ||reddit.com/r/AnalTutorial^
 ||reddit.com/r/AnalVidz^
 ||reddit.com/r/AnalWreckAI^
@@ -618,7 +618,7 @@
 ||reddit.com/r/animepointyears^
 ||reddit.com/r/AnimePornXXX^
 ||reddit.com/r/AnimePossession^
-||reddit.com/r/animepussies^
+||reddit.com/r/AnimePussies^
 ||reddit.com/r/animepussy^
 ||reddit.com/r/AnimeSandals^
 ||reddit.com/r/AnimeSeeThrough^
@@ -1329,7 +1329,7 @@
 ||reddit.com/r/BbwPorn^
 ||reddit.com/r/bbwpussys^
 ||reddit.com/r/BBWRedheads^
-||reddit.com/r/bbws_worldwide^
+||reddit.com/r/BBWs_Worldwide^
 ||reddit.com/r/bbwselfies^
 ||reddit.com/r/bbwselfiesGW^
 ||reddit.com/r/BBWShowering^
@@ -2097,7 +2097,7 @@
 ||reddit.com/r/BralessGoneWild^
 ||reddit.com/r/bralessinmotion^
 ||reddit.com/r/BralessSelfies^
-||reddit.com/r/BralessTease^
+||reddit.com/r/bralesstease^
 ||reddit.com/r/bralesswoman^
 ||reddit.com/r/BrandiBae^
 ||reddit.com/r/BrandiLove^
@@ -2150,7 +2150,7 @@
 ||reddit.com/r/BreedingExperience^
 ||reddit.com/r/breedingfamilys^
 ||reddit.com/r/BreedingGoneWild^
-||reddit.com/r/Breedinghotwives^
+||reddit.com/r/breedinghotwives^
 ||reddit.com/r/breedinglab^
 ||reddit.com/r/BreedingMaterial^
 ||reddit.com/r/BreedingOntario^
@@ -3849,7 +3849,7 @@
 ||reddit.com/r/DirtyStoryWriting^
 ||reddit.com/r/DirtyTalkGirls^
 ||reddit.com/r/dirtytalkporn^
-||reddit.com/r/DirtyTex^
+||reddit.com/r/dirtytex^
 ||reddit.com/r/dirtytucson^
 ||reddit.com/r/dirtyUKr4r^
 ||reddit.com/r/dirtywhoresfordaddies^
@@ -4108,7 +4108,7 @@
 ||reddit.com/r/Eimi_Fukada^
 ||reddit.com/r/EjaculationStation^
 ||reddit.com/r/EkaterinaZueva^
-||reddit.com/r/elastigirl^
+||reddit.com/r/Elastigirl^
 ||reddit.com/r/eldenrule34^
 ||reddit.com/r/Eldritchmonstergirls^
 ||reddit.com/r/Electroerotic^
@@ -4287,7 +4287,7 @@
 ||reddit.com/r/Evesgarden^
 ||reddit.com/r/evesweetxxx^
 ||reddit.com/r/EvgeniaTalanina^
-||reddit.com/r/EvilRuinedOrgasms^
+||reddit.com/r/evilruinedorgasms^
 ||reddit.com/r/EvitaLima_RA^
 ||reddit.com/r/excogiupdates^
 ||reddit.com/r/ExhibitionCentral^
@@ -4648,6 +4648,7 @@
 ||reddit.com/r/FeralPokePorn^
 ||reddit.com/r/FeralSex^
 ||reddit.com/r/FertileGirls^
+||reddit.com/r/festivalslut^
 ||reddit.com/r/festivalslutsgonewild^
 ||reddit.com/r/fetiche^
 ||reddit.com/r/fetish^
@@ -7818,7 +7819,7 @@
 ||reddit.com/r/MacroFetish^
 ||reddit.com/r/macromastiacam^
 ||reddit.com/r/macromastiairl^
-||reddit.com/r/MacromastiaQueens^
+||reddit.com/r/macromastiaqueens^
 ||reddit.com/r/Macrophilia^
 ||reddit.com/r/MacroRP2^
 ||reddit.com/r/MaddyDietz^
@@ -8106,7 +8107,7 @@
 ||reddit.com/r/men4ftms^
 ||reddit.com/r/Men_showing_off_4_men^
 ||reddit.com/r/mencum^
-||reddit.com/r/menCummingNSFW^
+||reddit.com/r/mencummingnsfw^
 ||reddit.com/r/MenEatingCreampies^
 ||reddit.com/r/MenFeet^
 ||reddit.com/r/menfuckingfood^
@@ -8724,7 +8725,7 @@
 ||reddit.com/r/naughty^
 ||reddit.com/r/Naughty_Games^
 ||reddit.com/r/naughty_mexican_wife^
-||reddit.com/r/Naughty_Nurses_NSFW^
+||reddit.com/r/naughty_nurses_nsfw^
 ||reddit.com/r/Naughty_Teachers_NSFW^
 ||reddit.com/r/naughtyamerica^
 ||reddit.com/r/NaughtyAndNatural^
@@ -10995,7 +10996,7 @@
 ||reddit.com/r/SanAntonioWomenNSFW^
 ||reddit.com/r/sandalsfetish^
 ||reddit.com/r/SanDiego_FWB^
-||reddit.com/r/sandiegoadultsonly^
+||reddit.com/r/SanDiegoAdultsOnly^
 ||reddit.com/r/SanDiegoAdultTheater2^
 ||reddit.com/r/SanDiegoAdultTheater3^
 ||reddit.com/r/sandiegococklovers^
@@ -12838,7 +12839,7 @@
 ||reddit.com/r/ThroatPlay^
 ||reddit.com/r/throatpussy^
 ||reddit.com/r/ThroatSlutWorld^
-||reddit.com/r/ThroatThots^
+||reddit.com/r/throatthots^
 ||reddit.com/r/ThrobbingCIM^
 ||reddit.com/r/THRONE_your_WISHLIST^
 ||reddit.com/r/ThroneGirls2^
@@ -13649,7 +13650,6 @@
 ||reddit.com/r/vtuberlewds^
 ||reddit.com/r/vulva^
 ||reddit.com/r/Waco_CausalEncounters^
-||reddit.com/r/waifudiffusion^
 ||reddit.com/r/Waifus34^
 ||reddit.com/r/waifusgonewild^
 ||reddit.com/r/WaifusIRL^
