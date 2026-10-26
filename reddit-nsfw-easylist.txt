@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: Reddit NSFW Subreddit Blocklist
 ! Description: Blocks reviewed Reddit community URL paths from three public source lists.
-! Rules: 14165
+! Rules: 14166
 ! Source: RandomNSFW; accepted: 2914; rejected: 1; SHA-256: 9fb058561e73825a33507c76302ab25d5b9bf7d2a2316089b51a032b57b4ddde
 ! URL: https://raw.githubusercontent.com/dlln147/RandomNSFW/refs/heads/main/RandomNSFW
-! Source: Postpone top 5,000; accepted: 5000; rejected: 0; SHA-256: 37a0b71356d6fdffe8bd54ed550463368bb241f43d11274de6484155ac72799f
+! Source: Postpone top 5,000; accepted: 5000; rejected: 0; SHA-256: d47eea1e6d729299f6960a99dac61f2380261a63cc5f651d12f4087dca3ab53d
 ! URL: https://api.postpone.app/api/reddit/nsfw-subreddits/?limit=5000
-! Source: Kinky Tourist 26-part list; accepted: 12995; rejected: 0; SHA-256: 49589132cf484a24b543286c7e545f89399148d2e43817dcd1ff9be739c6f0a7
+! Source: Kinky Tourist 26-part list; accepted: 12995; rejected: 0; SHA-256: a69aa66aa69212e5a74c6c3069ce3367d524efa1941ba1bd6b34fe8429aa6fac
 ! URL: https://thekinkytourist.com/subreddits/
 
 ||reddit.com/r/07nsfw^
@@ -1479,7 +1479,7 @@
 ||reddit.com/r/BessBreast^
 ||reddit.com/r/BEST_BBW_WORLD^
 ||reddit.com/r/Best_Big_Boobs^
-||reddit.com/r/Best_Gingers^
+||reddit.com/r/best_gingers^
 ||reddit.com/r/Best_LingerieOnlyFans^
 ||reddit.com/r/Best_NSFW_Content^
 ||reddit.com/r/BestAmateurCumshots^
@@ -1588,7 +1588,7 @@
 ||reddit.com/r/bigboobsclub^
 ||reddit.com/r/BigBoobsGonewild^
 ||reddit.com/r/BigBoobsGW^
-||reddit.com/r/bigboobssex^
+||reddit.com/r/BigBoobsSex^
 ||reddit.com/r/BigBoobsUnited^
 ||reddit.com/r/BigBootiesGoneWild^
 ||reddit.com/r/BigBootyAssAnalSex^
@@ -1735,7 +1735,7 @@
 ||reddit.com/r/bimbolovers^
 ||reddit.com/r/BimbosInTraining^
 ||reddit.com/r/bimbosissydolls^
-||reddit.com/r/BimboWhore^
+||reddit.com/r/bimbowhore^
 ||reddit.com/r/bimengonewild^
 ||reddit.com/r/BiMenSouthAfrica^
 ||reddit.com/r/BiMilfs^
@@ -2098,7 +2098,7 @@
 ||reddit.com/r/BralessGoneWild^
 ||reddit.com/r/bralessinmotion^
 ||reddit.com/r/BralessSelfies^
-||reddit.com/r/BralessTease^
+||reddit.com/r/bralesstease^
 ||reddit.com/r/bralesswoman^
 ||reddit.com/r/BrandiBae^
 ||reddit.com/r/BrandiLove^
@@ -2721,7 +2721,7 @@
 ||reddit.com/r/ChicagoBurbsMeet^
 ||reddit.com/r/ChicagoCouples^
 ||reddit.com/r/ChicagoDomsubPersonal^
-||reddit.com/r/chicagohotwives^
+||reddit.com/r/Chicagohotwives^
 ||reddit.com/r/ChicagoKinks^
 ||reddit.com/r/ChicagoMale4Male^
 ||reddit.com/r/chicagor4r^
@@ -3254,7 +3254,7 @@
 ||reddit.com/r/Cuckold_Sessions^
 ||reddit.com/r/cuckold_wifes^
 ||reddit.com/r/CuckoldAi^
-||reddit.com/r/CuckoldBWC^
+||reddit.com/r/cuckoldbwc^
 ||reddit.com/r/cuckoldcaptions^
 ||reddit.com/r/cuckoldcheating^
 ||reddit.com/r/CuckoldComics^
@@ -4407,7 +4407,7 @@
 ||reddit.com/r/fanslynewbies^
 ||reddit.com/r/FanslyOver40^
 ||reddit.com/r/FanslyPawgs^
-||reddit.com/r/fanslypetitegirls^
+||reddit.com/r/FanslyPetiteGirls^
 ||reddit.com/r/Fanslypromocentral^
 ||reddit.com/r/FanslyRedheads^
 ||reddit.com/r/FansofSunAuraResort^
@@ -4531,7 +4531,7 @@
 ||reddit.com/r/FemaleDommePersonals^
 ||reddit.com/r/femaleedging^
 ||reddit.com/r/FemaleEnemas^
-||reddit.com/r/FemaleFeet^
+||reddit.com/r/femalefeet^
 ||reddit.com/r/femalefittofat^
 ||reddit.com/r/FemaleHairy^
 ||reddit.com/r/femaleinferioritycap^
@@ -5158,7 +5158,6 @@
 ||reddit.com/r/gayalabama^
 ||reddit.com/r/gayanalprolapse^
 ||reddit.com/r/gayarabwild^
-||reddit.com/r/gayasianporn^
 ||reddit.com/r/gayasianspeedo^
 ||reddit.com/r/gayassholegonewild^
 ||reddit.com/r/gayassjob^
@@ -5588,7 +5587,7 @@
 ||reddit.com/r/gloryholesMI^
 ||reddit.com/r/GloryHoleSwallow1^
 ||reddit.com/r/GloryholeSwallow4K^
-||reddit.com/r/GloryholeWhoresGW^
+||reddit.com/r/gloryholewhoresgw^
 ||reddit.com/r/gloryholey^
 ||reddit.com/r/GloveFet^
 ||reddit.com/r/GloveLove^
@@ -7805,6 +7804,7 @@
 ||reddit.com/r/LuxeEmpire^
 ||reddit.com/r/luxurygirl^
 ||reddit.com/r/LuzDiaz^
+||reddit.com/r/lxtinawrld^
 ||reddit.com/r/Lydiagh0st^
 ||reddit.com/r/lyracrowo^
 ||reddit.com/r/LyraLaw^
@@ -7955,7 +7955,7 @@
 ||reddit.com/r/Married_Men_Georgia^
 ||reddit.com/r/Married_R4R^
 ||reddit.com/r/MarriedAndBi^
-||reddit.com/r/marriedandflirting^
+||reddit.com/r/Marriedandflirting^
 ||reddit.com/r/marriedandtakencock^
 ||reddit.com/r/marriedbicuriousmen^
 ||reddit.com/r/marriedbidownlow^
@@ -8108,7 +8108,7 @@
 ||reddit.com/r/men4ftms^
 ||reddit.com/r/Men_showing_off_4_men^
 ||reddit.com/r/mencum^
-||reddit.com/r/menCummingNSFW^
+||reddit.com/r/mencummingnsfw^
 ||reddit.com/r/MenEatingCreampies^
 ||reddit.com/r/MenFeet^
 ||reddit.com/r/menfuckingfood^
@@ -9397,6 +9397,7 @@
 ||reddit.com/r/OnlyAssLovers^
 ||reddit.com/r/OnlyBimbos^
 ||reddit.com/r/onlybutzz^
+||reddit.com/r/onlybwc^
 ||reddit.com/r/onlychooms^
 ||reddit.com/r/onlycurvygw^
 ||reddit.com/r/onlyeliteasses^
@@ -10962,7 +10963,7 @@
 ||reddit.com/r/Saggy^
 ||reddit.com/r/SaggyBoobClub^
 ||reddit.com/r/SaggyBoobsLounge^
-||reddit.com/r/saggymilftits^
+||reddit.com/r/SaggyMilfTits^
 ||reddit.com/r/Saggynaturals^
 ||reddit.com/r/saggytiddies^
 ||reddit.com/r/saggytit^
