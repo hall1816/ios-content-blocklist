@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: Reddit NSFW Subreddit Blocklist
 ! Description: Blocks reviewed Reddit community URL paths from three public source lists.
-! Rules: 14166
+! Rules: 14170
 ! Source: RandomNSFW; accepted: 2914; rejected: 1; SHA-256: 9fb058561e73825a33507c76302ab25d5b9bf7d2a2316089b51a032b57b4ddde
 ! URL: https://raw.githubusercontent.com/dlln147/RandomNSFW/refs/heads/main/RandomNSFW
-! Source: Postpone top 5,000; accepted: 5000; rejected: 0; SHA-256: d47eea1e6d729299f6960a99dac61f2380261a63cc5f651d12f4087dca3ab53d
+! Source: Postpone top 5,000; accepted: 5000; rejected: 0; SHA-256: e3a5f733da554ed8826f263367471b7964592f99fd4b24fcf393b5a58869e2a9
 ! URL: https://api.postpone.app/api/reddit/nsfw-subreddits/?limit=5000
-! Source: Kinky Tourist 26-part list; accepted: 12995; rejected: 0; SHA-256: a69aa66aa69212e5a74c6c3069ce3367d524efa1941ba1bd6b34fe8429aa6fac
+! Source: Kinky Tourist 26-part list; accepted: 12994; rejected: 0; SHA-256: 94fcb357ebfcee57f48f6df07b9982d376d787fe9af3dab9e3995ac80dafc1a1
 ! URL: https://thekinkytourist.com/subreddits/
 
 ||reddit.com/r/07nsfw^
@@ -24,7 +24,6 @@
 ||reddit.com/r/1819gw^
 ||reddit.com/r/18_19^
 ||reddit.com/r/18_22^
-||reddit.com/r/18_22teens^
 ||reddit.com/r/18above_roleplay^
 ||reddit.com/r/18nsfw^
 ||reddit.com/r/18PlusEbonyTeens^
@@ -135,7 +134,6 @@
 ||reddit.com/r/abriebaby18^
 ||reddit.com/r/abs_ass_tits^
 ||reddit.com/r/abusedhole^
-||reddit.com/r/abv^
 ||reddit.com/r/AcapulcoShoreOnly^
 ||reddit.com/r/accidental_ish^
 ||reddit.com/r/accidentalcuminmouth^
@@ -239,6 +237,7 @@
 ||reddit.com/r/Ai_Kano^
 ||reddit.com/r/AI_NSFWHaven^
 ||reddit.com/r/ai_porn_gallery^
+||reddit.com/r/ai_taboos^
 ||reddit.com/r/ai_uehara^
 ||reddit.com/r/ai_xxx_porn^
 ||reddit.com/r/AiBDSM^
@@ -551,7 +550,7 @@
 ||reddit.com/r/AnalSizeQueen^
 ||reddit.com/r/analsquirt^
 ||reddit.com/r/analstretching^
-||reddit.com/r/analtoysonly^
+||reddit.com/r/AnalToysOnly^
 ||reddit.com/r/AnalTutorial^
 ||reddit.com/r/AnalVidz^
 ||reddit.com/r/AnalWreckAI^
@@ -840,7 +839,7 @@
 ||reddit.com/r/asianpornonly^
 ||reddit.com/r/asianpornstars^
 ||reddit.com/r/asianpussyass^
-||reddit.com/r/AsiansAdmirer^
+||reddit.com/r/asiansadmirer^
 ||reddit.com/r/asiansandwhites^
 ||reddit.com/r/asiansdaily^
 ||reddit.com/r/AsianSexPorn^
@@ -5601,6 +5600,7 @@
 ||reddit.com/r/goddess_wife^
 ||reddit.com/r/goddesses_2^
 ||reddit.com/r/GoddessGoneWild^
+||reddit.com/r/godlyblowjobs^
 ||reddit.com/r/godlycreampies^
 ||reddit.com/r/GodlyFeet^
 ||reddit.com/r/godlyvagina^
@@ -6426,7 +6426,7 @@
 ||reddit.com/r/HotMoms^
 ||reddit.com/r/hotmomsafterhours^
 ||reddit.com/r/HotMomsFucking^
-||reddit.com/r/hotmomsgw^
+||reddit.com/r/HOTMOMSGW^
 ||reddit.com/r/hotmomsover40^
 ||reddit.com/r/HotNakedMen^
 ||reddit.com/r/hotNtattooed^
@@ -7792,7 +7792,7 @@
 ||reddit.com/r/LucyLi^
 ||reddit.com/r/luluchu^
 ||reddit.com/r/lululemonleggingz^
-||reddit.com/r/luminensfw^
+||reddit.com/r/LumineNSFW^
 ||reddit.com/r/LunaBenna^
 ||reddit.com/r/LunaStar^
 ||reddit.com/r/Lusamine^
@@ -8384,7 +8384,7 @@
 ||reddit.com/r/MissyMartinez^
 ||reddit.com/r/mistress^
 ||reddit.com/r/MistressMercyxox^
-||reddit.com/r/mistresszone^
+||reddit.com/r/MistressZone^
 ||reddit.com/r/MistyMacAllister^
 ||reddit.com/r/mistymeaner^
 ||reddit.com/r/mistynsfw^
@@ -8758,6 +8758,7 @@
 ||reddit.com/r/NaughtyMomsGoneWild^
 ||reddit.com/r/NaughtyNeedles^
 ||reddit.com/r/naughtynusantara^
+||reddit.com/r/naughtypassengers^
 ||reddit.com/r/naughtypiss^
 ||reddit.com/r/NaughtyPromoHub^
 ||reddit.com/r/naughtyrealgirls^
@@ -9282,7 +9283,7 @@
 ||reddit.com/r/OFgirlspanties^
 ||reddit.com/r/OFgirlspetite^
 ||reddit.com/r/ofgirlsselfies^
-||reddit.com/r/OFgirlsteens^
+||reddit.com/r/ofgirlsteens^
 ||reddit.com/r/OFkinkycuties^
 ||reddit.com/r/OFmodels69^
 ||reddit.com/r/OFsexybutts^
@@ -9665,7 +9666,7 @@
 ||reddit.com/r/Pantyhose_tights^
 ||reddit.com/r/PANTYHOSEONLYFANS^
 ||reddit.com/r/pantymales^
-||reddit.com/r/pantynectar^
+||reddit.com/r/PantyNectar^
 ||reddit.com/r/pantyobsession^
 ||reddit.com/r/Pantypalace^
 ||reddit.com/r/PantyParadise^
@@ -9689,6 +9690,7 @@
 ||reddit.com/r/pastthepop^
 ||reddit.com/r/paswingers^
 ||reddit.com/r/Patamatmemes^
+||reddit.com/r/patatinavipforum^
 ||reddit.com/r/patheticdicks_sph^
 ||reddit.com/r/Patriarchy_Lifestyle^
 ||reddit.com/r/Pattycake^
@@ -11700,7 +11702,7 @@
 ||reddit.com/r/Skunkchatbots^
 ||reddit.com/r/SkunkGirlHentai^
 ||reddit.com/r/skybri_xxx^
-||reddit.com/r/skyebluemodel^
+||reddit.com/r/SkyeBlueModel^
 ||reddit.com/r/SkyeBlueOffical^
 ||reddit.com/r/skylanovea^
 ||reddit.com/r/SkylarValentineXXX^
@@ -12267,7 +12269,7 @@
 ||reddit.com/r/suckdaddysballs^
 ||reddit.com/r/suckers^
 ||reddit.com/r/suckher^
-||reddit.com/r/SuckingBothBalls^
+||reddit.com/r/suckingbothballs^
 ||reddit.com/r/SuckingCockInBloNo^
 ||reddit.com/r/suckingdildo^
 ||reddit.com/r/SuckingHerOwnNipples^
@@ -12447,7 +12449,7 @@
 ||reddit.com/r/TampaBiGaySluts^
 ||reddit.com/r/tampacuckcpls^
 ||reddit.com/r/tampahotties^
-||reddit.com/r/tampaswingers^
+||reddit.com/r/TampaSwingers^
 ||reddit.com/r/Tamponstringwnsfw^
 ||reddit.com/r/TanCheeks^
 ||reddit.com/r/taniabann^
@@ -12653,6 +12655,7 @@
 ||reddit.com/r/TheEbonyPalace^
 ||reddit.com/r/TheEmmaRosie^
 ||reddit.com/r/TheEroticSalon^
+||reddit.com/r/thefacetheasshoie^
 ||reddit.com/r/thefansoctokuro^
 ||reddit.com/r/thefemalemuscles^
 ||reddit.com/r/TheFirstDescendant18^
@@ -13446,6 +13449,7 @@
 ||reddit.com/r/use_and_abuse_me^
 ||reddit.com/r/Used_Beauties^
 ||reddit.com/r/Used_Fucked_Pussy^
+||reddit.com/r/usedabusedsluts^
 ||reddit.com/r/usedboxers^
 ||reddit.com/r/usedpanties^
 ||reddit.com/r/UsedPanties4u^
